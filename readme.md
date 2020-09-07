@@ -3,6 +3,7 @@ Locating based on the distances to landmarks, using RANSAC to get a robust resul
 
 # Environment
 https://www.cnblogs.com/YangyaoCHEN/p/8189290.html
+
 sudo ./configure --prefix=/usr/local
 sudo make
 sudo make install
